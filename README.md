@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)
+![MongoDB Express.js](https://img.shields.io/badge/MongoDB-Express.js-green?style=for-the-badge)
+![React.js Node.js](https://img.shields.io/badge/React.js-Node.js-green?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-Real--time-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **A modern, full-stack real-time chat application built with the MERN stack, featuring instant messaging, online status tracking, and a beautiful responsive UI.**
 
